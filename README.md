@@ -1,6 +1,12 @@
-# ublacklist-pinterest
+# ublacklist-amazon
 
-A [uBlacklist](https://github.com/iorate/ublacklist) blocklist to remove Pinterest from your search results. It won't make Google useable, but still sligtly less worse.
+A [uBlacklist](https://github.com/iorate/ublacklist) blocklist to remove Amazon from your search results. It won't make Google useable, but still sligtly less worse.
+
+# NOTE: This fork is a work in progress forked from the [ublacklist-pinterest blocklist](https://github.com/rjaus/ublacklist-pinterest) by [Riley James](https://github.com/rjaus).
+
+Until this warning is removed, this blocklist should not be considered functional.
+
+# Usage
 
 |               | Normal           | Overkill option  |
 |---------------|------------------|------------------|
@@ -10,10 +16,10 @@ A [uBlacklist](https://github.com/iorate/ublacklist) blocklist to remove Pintere
 
 ## Basic list
 
-The basic blocklist removes the Pinterest website and all its aliases that always show up in all your completely unrelared searches.
+The basic blocklist removes the Amazon website and all its aliases that always show up in all your completely unrelared searches.
 
 ## Extended list
-The extended blocklist also adds rules to remove all apps, socials and other services from the Pinterest, Inc. company.
+The extended blocklist also adds rules to remove all apps, socials and other services from the Amazon, Inc. company.
 
 ## Overkill option
 
@@ -25,7 +31,7 @@ A minimal blocklist consisting of one rule: block all `.pinterest.` results in i
 
 ## References
 
-[How Pinterest utterly ruined photo search on the internet](https://www.inverse.com/input/culture/pinterest-sucks-google-image-photo-search-ruining-internet)
+[How Amazon utterly ruined photo search on the internet](https://www.inverse.com/input/culture/pinterest-sucks-google-image-photo-search-ruining-internet)
 
 ## Alternatives
 
